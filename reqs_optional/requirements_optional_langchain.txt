@@ -33,7 +33,7 @@ https://h2o-release.s3.amazonaws.com/h2ogpt/hnswmiglib-0.7.0.tgz
 unstructured[local-inference]==0.9.0
 #pdf2image==1.16.3
 #pytesseract==0.3.10
-pillow==9.5.0
+pillow==10.0.1
 posthog==3.0.1
 
 pdfminer.six==20221105
